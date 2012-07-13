@@ -1,0 +1,10 @@
+D:\Ronald\AsteriskSample\Asterisk.NET\bin\Debug\Asterisk.NET.dll
+D:\Ronald\AsteriskSample\Asterisk.NET\bin\Debug\Asterisk.NET.pdb
+D:\Ronald\AsteriskSample\Asterisk.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\Ronald\AsteriskSample\Asterisk.NET\obj\Debug\Asterisk.NET.dll
+D:\Ronald\AsteriskSample\Asterisk.NET\obj\Debug\Asterisk.NET.pdb
+D:\ronald\Asterisk\Asterisk.NET\bin\Debug\Asterisk.NET.dll
+D:\ronald\Asterisk\Asterisk.NET\bin\Debug\Asterisk.NET.pdb
+D:\ronald\Asterisk\Asterisk.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\ronald\Asterisk\Asterisk.NET\obj\Debug\Asterisk.NET.dll
+D:\ronald\Asterisk\Asterisk.NET\obj\Debug\Asterisk.NET.pdb
